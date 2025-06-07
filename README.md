@@ -167,7 +167,7 @@ cargo run -- --test-dev-wallet
 Feel free to reach out for contributions, questions or partnerships:
 
 - Telegram: [@FaceOFWood](https://t.me/FaceOFWood)
-- Email: [bernardo@example.com](mailto:bernardo@example.com)
+- Email: [caradepauof@gmail.com.com](mailto:caradepauof@gmail.com.com)
 
 ---
 
