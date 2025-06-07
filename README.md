@@ -167,7 +167,7 @@ cargo run -- --test-dev-wallet
 Feel free to reach out for contributions, questions or partnerships:
 
 - Telegram: [@gHcout](https://t.me/gHcout)
-- Email: [caradepauof@gmail.com.com](mailto:caradepauof@gmail.com.com)
+- Email: [caradepauof@gmail.com](mailto:caradepauof@gmail.com)
 
 ---
 
